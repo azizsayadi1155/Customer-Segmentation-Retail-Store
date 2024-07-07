@@ -82,36 +82,3 @@ I analyzed the resulting clusters by examining the mean RFM values for each clus
 ## Conclusion
 
 The project successfully segments customers into distinct groups based on their purchasing behavior. These segments can help businesses tailor their marketing strategies and improve customer retention.
-
-## Usage
-
-To run this project, you can follow these steps:
-
-1. Clone the repository.
-2. Ensure you have the required dependencies installed (see below).
-3. Run the provided Python script to perform clustering and generate visualizations.
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
-python customer_segmentation.py
-```
-
-## Dependencies
-
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
-- scipy
-- seaborn
-
-You can install the required dependencies using pip:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn scipy seaborn
-```
-
----
-
-Replace `<repository-url>` with the actual URL of your repository and `<repository-directory>` with the directory name of your cloned repository. This `README.md` provides a comprehensive overview of the project, its methodology, and how to run it.
